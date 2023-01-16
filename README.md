@@ -42,12 +42,13 @@
 <a href="https://github.com/RaJiBuLmOlLaPGEC"><img src="https://github-readme-stats.vercel.app/api?username=RaJiBuLmOlLaPGEC&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="RaJiBuLmOlLaPGEC's GitHub stats" /></a>
 </p>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/RaJiBuLmOlLaPGEC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="RaJiBuLmOlLaPGEC's GitHub stats" /></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&theme=radical)
-</div>
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RaJiBuLmOlLaPGEC&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&langs_count=5&theme=tokyonight)]() -->
 
-<!-- [![Rajibul's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaJiBuLmOlLaPGEC&theme=xcode)](https://github.com/RaJiBuLmOlLaPGEC/github-readme-activity-graph) -->
 <h2 align='center'><i><a href="https://github.com/RaJiBuLmOlLaPGEC/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/ARaJiBuLmOlLaPGEC/github-readme-activity-graph#gh-light-mode-only">
