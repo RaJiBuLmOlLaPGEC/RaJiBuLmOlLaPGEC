@@ -47,7 +47,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&theme=radical)
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaJiBuLmOlLaPGEC&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaJiBuLmOlLaPGEC&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 😜Here's a Joke for you:
 
