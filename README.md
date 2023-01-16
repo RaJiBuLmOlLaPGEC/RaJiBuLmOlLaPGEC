@@ -47,7 +47,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&theme=radical)
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaJiBuLmOlLaPGEC&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Rajibul's github activity graph](https://activity-graph.herokuapp.com/graph?username=RaJiBuLmOlLaPGEC&theme=xcode)](https://github.com/RaJiBuLmOlLaPGEC/github-readme-activity-graph) -->
+<h2 align='center'><i><a href="https://github.com/RaJiBuLmOlLaPGEC/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/ARaJiBuLmOlLaPGEC/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RaJiBuLmOlLaPGEC&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/RaJiBuLmOlLaPGEC/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RaJiBuLmOlLaPGEC&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 ### 😜Here's a Joke for you:
 
