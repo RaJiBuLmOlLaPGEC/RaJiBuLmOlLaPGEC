@@ -46,6 +46,17 @@
 <a href="https://github.com/RaJiBuLmOlLaPGEC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="RaJiBuLmOlLaPGEC's GitHub stats" /></a>
 </p>
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&layout=compact)](https://github.com/RaJiBuLmOlLaPGEC/github-readme-stats)
+
+
+
+
+
+
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RaJiBuLmOlLaPGEC&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJiBuLmOlLaPGEC&langs_count=5&theme=tokyonight)]() -->
 
