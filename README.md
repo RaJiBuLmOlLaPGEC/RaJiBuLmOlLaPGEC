@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack Java Development course from Masai School.**
+- 🌱 I’m currently workinhg as **Project Engineer at Crio.Do**
 
 - 👨‍💻 All of my projects are available at my [Portfolio.](https://rajibulmollapgec.github.io/)
 
-- 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, AWS, JavaScript, HTML, CSS**
+- 💬 Ask me about **Java, MySQL, Spring Boot, AWS, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **rajibulmolla5@gmail.com**
 
 - 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/18b2s-c2CZz98XB-Wns2bF_sJ6Bk8veXt/view?usp=share_link)
 
-- ⚡like playing **Football and Cricket.**
+- ⚡like playing **Football, Cricket and Vollyball.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
